@@ -1,0 +1,31 @@
+html{
+    font-family: Georgia, serif;
+}
+div{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+h1{
+    margin-left: 165px;
+}
+#html_icon{
+    margin-left: 10px;
+    height: 32px;
+    width: 32px;
+} 
+img{
+    margin-left: 160px;
+    width: 220px;
+    height: 200px;
+}
+h2{
+    margin-left: 135px;
+}
+h1, h2{
+    color:brown;
+    font-family: Impact, sans-serif;
+    
+}
+#first{
+    font-weight: bold;
+}
